@@ -1,3 +1,4 @@
+# Recipe Book
 A React web-app which inputs a food item as a query and displays recipes, ingredients and the calories of the
 respective dishes.
 API used: https://www.edamam.com/
